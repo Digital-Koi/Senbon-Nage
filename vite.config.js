@@ -10,6 +10,7 @@ export default defineConfig({
       input: {
         main: resolve(__dirname, 'index.html'),
         instructors: resolve(__dirname, 'instructors.html'),
+        classes: resolve(__dirname, 'classes.html'),
       },
     },
   },
